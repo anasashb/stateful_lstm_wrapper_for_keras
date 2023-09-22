@@ -1,1 +1,1 @@
-# stateful_lstm_wrapper_for_keras
+# Wrapper Class for implementing stateful LSTM models in Keras
